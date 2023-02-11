@@ -1,4 +1,4 @@
-name: Deploy ⌚️ Nomie 7 Apple Watch Plugin to Github Pages
+name: Deploy ⌚️ Nomie 6 Apple Watch Plugin to Github Pages
 
 on:
   # Runs on pushes targeting the default branch
